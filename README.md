@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there <img src="https://i.pinimg.com/564x/96/a9/43/96a943ba44b5905572b59117380c980c.jpg" width="30px">, I am Hugo Quispe <h1>
+### <h1 align="center"> Hi there <img src="https://i.pinimg.com/564x/68/3a/6f/683a6ff149589438aa7449bb0d35d308.jpg" width="40px">, I am Hugo Quispe <h1>
 
 <!--
 **Vetaman999/Vetaman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
