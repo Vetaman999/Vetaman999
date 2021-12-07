@@ -18,7 +18,7 @@ I am a Software Engineering Student, I am interested in web development and expl
   
 ## 📊 My Github Stats
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetaman999&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetaman999&show_icons=true&theme=cobalt)
    </p>
 
 <!--
