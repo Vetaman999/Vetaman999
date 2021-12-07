@@ -19,8 +19,8 @@ I am a Software Engineering Student, I am interested in web development and expl
 ## 📊 My Github Stats
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetaman999&hide=prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetaman999&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetaman999&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 
 <!--
 **Vetaman999/Vetaman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
