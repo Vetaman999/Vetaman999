@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi there <img src="![image](https://user-images.githubusercontent.com/68401851/144950518-f4c0b1ef-cc45-40ef-8d4b-6f14364464c3.png)
+### <h1 align="center"> Hi there <img src="https://user-images.githubusercontent.com/68401851/144950518-f4c0b1ef-cc45-40ef-8d4b-6f14364464c3.png
 " width="40px">, I am Hugo Quispe <h1>
 
 <!--
