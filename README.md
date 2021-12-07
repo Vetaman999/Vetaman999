@@ -15,6 +15,12 @@ I am a Software Engineering Student, I am interested in web development and expl
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" widht="42" height="42"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
+  
+## 📊 My Github Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vetaman999&hide=prs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetaman999&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--
 **Vetaman999/Vetaman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
