@@ -1,5 +1,8 @@
 ### <h1 align="center"> Hi there <img src="https://www.pngplay.com/wp-content/uploads/2/Deadpool-Chibi-Free-PNG.png" width="40px">, I am Hugo Quispe <h1>
 
+## 🙋‍♂️ About Me
+
+I am a Software Engineering Student, I am interested in web development and exploring current technologies and finding other frameworks to develop.
 <!--
 **Vetaman999/Vetaman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
