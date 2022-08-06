@@ -11,11 +11,12 @@ I am a Software Engineering Student, I am interested in web development and expl
  
  <br/>
  
+ <!--
 ### 🌱 My Future Projects
 
  * Just Me
  * Prof.
-
+-->
   
 ## 🚀 Languages and Tools:
 
