@@ -8,12 +8,13 @@ I am a Software Engineering Student, I am interested in web development and expl
   
 * 🔭 Find Me **Hugo.Quispe12359@gmail.com**
 
+ 
+ <br/>
 ### 🌱 My Future Projects
 
-  * 
-  
-  
-<br/>
+ * Just Me
+ * Prof.
+
   
 ## 🚀 Languages and Tools:
 
