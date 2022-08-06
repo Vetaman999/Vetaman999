@@ -6,9 +6,15 @@
 
 I am a Software Engineering Student, I am interested in web development and exploring current technologies and finding other frameworks to develop.
   
+* 🔭 Find Me
+
+* 🌱 My Future Projects
+  
+  
+  
 ## 🚀 Languages and Tools:
 
-### 👨‍💻 Preferred For Frontend
+👨‍💻 Preferred For Frontend
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -20,24 +26,26 @@ I am a Software Engineering Student, I am interested in web development and expl
      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p> 
 
-### 🤓 Preferred For Backend
+🤓 Preferred For Backend
 <p align="left">
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img   src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" widht="42" height="42"/> </a>
 </p>
 
-### 💻 Preferred For IHC
+💻 Preferred For IHC
 
 <p align="left">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/adobexd.png" alt=adobexd width="60" height="60"/>
 </p>
 
-### 💬 Preferred For DataBase
+💬 Preferred For DataBase
 
 <p align="left">
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
 </p>
 
-### 🙌 Preferred For Algorithms y POO
+🙌 Preferred For Algorithms y POO
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
