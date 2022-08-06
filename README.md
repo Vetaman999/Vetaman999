@@ -1,5 +1,7 @@
 ### <h1 align="center"> Hi there <img src="https://www.pngplay.com/wp-content/uploads/2/Deadpool-Chibi-Free-PNG.png" width="40px">, I am Hugo Quispe <h1>
 
+  <img src="[https://www.pngplay.com/wp-content/uploads/2/Deadpool-Chibi-Free-PNG.png](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)">
+  
 ## 🙋‍♂️ About Me
 
 I am a Software Engineering Student, I am interested in web development and exploring current technologies and finding other frameworks to develop.
