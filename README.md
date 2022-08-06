@@ -1,16 +1,19 @@
 ### <h1 align="center"> Hi there <img src="https://www.pngplay.com/wp-content/uploads/2/Deadpool-Chibi-Free-PNG.png" width="40px">, I am Hugo Quispe <h1>
-
-  <img src="[https://www.pngplay.com/wp-content/uploads/2/Deadpool-Chibi-Free-PNG.png](https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg)">
+ 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
 ## 🙋‍♂️ About Me
 
 I am a Software Engineering Student, I am interested in web development and exploring current technologies and finding other frameworks to develop.
   
-* 🔭 Find Me
+* 🔭 Find Me **Hugo.Quispe12359@gmail.com**
 
-* 🌱 My Future Projects
+### 🌱 My Future Projects
+
+  * 
   
   
+<br/>
   
 ## 🚀 Languages and Tools:
 
@@ -49,7 +52,7 @@ I am a Software Engineering Student, I am interested in web development and expl
 
 <p align="left">
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
   
